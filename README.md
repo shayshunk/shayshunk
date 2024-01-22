@@ -13,6 +13,7 @@ You can click the Preview link to take a look at your changes.
 </h2>
 
  * C++
+ * C#
  * GEANT4
  * ROOT
  * Python
