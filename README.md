@@ -4,6 +4,9 @@
 - 💞️ I’m looking to collaborate on particle physics, especially neutrino directionality. 
 - 📫 How to reach me: sj622@drexel.edu
 
+# Check out my website [here!](https://shayshunk.github.io)
+## It has more info and pictures of my projects.
+
 <!---
 shayshunk/shayshunk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
