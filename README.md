@@ -20,8 +20,9 @@ You can click the Preview link to take a look at your changes.
  * GEANT4
  * ROOT
  * Python
- * Pandas and dataframes
+ * Pandas
+ * Numpy, Scipy
+ * Data analysis
  * HTML, CSS, Javascript
  * TensorFlow
  * Blender
- * Data analysis
