@@ -4,7 +4,7 @@
 - 👋 Hi, I’m @shayshunk
 - 👀 I’m interested in particle simulations using GEANT4, as well as data analysis in neutrino physics. I also have side interests in game development and AI. 
 - 🌱 I’m currently working on adding Machine Learning to my repertoire. 
-- 💞️ I’m looking to collaborate on particle physics, especially neutrino directionality. 
+- 💞️ I’m looking to collaborate on particle physics, especially neutrino directionality. Feel free to contact me for GEANT4 help! I'm mostly experienced with optical simulations. 
 - 📫 How to reach me: sj622@drexel.edu
 
 <!---
